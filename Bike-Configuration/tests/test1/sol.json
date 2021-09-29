@@ -1,0 +1,30 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test2/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            "require_com_com(bike,frame)", "require_com_com(bike,front_wheel)", "require_com_com(bike,rear_wheel)", "require_com_com(frame,bike)", "require_com_com(front_wheel,bike)", "require_com_com(rear_wheel,bike)", "require_com_com(basket,bike)", "require_com_com(stand,bike)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 1,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.001,
+    "Solve": 0.000,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.001
+  }
+}

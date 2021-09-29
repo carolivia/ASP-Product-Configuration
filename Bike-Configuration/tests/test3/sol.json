@@ -1,0 +1,30 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test3/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            "mandatory_attribute(bike,type)", "mandatory_attribute(frame,type)", "mandatory_attribute(front_wheel,type)", "mandatory_attribute(rear_wheel,type)", "mandatory_attribute(basket,type)", "mandatory_attribute(stand,type)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 1,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.001,
+    "Solve": 0.000,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.001
+  }
+}

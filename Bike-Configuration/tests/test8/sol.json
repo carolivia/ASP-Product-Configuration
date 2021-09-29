@@ -1,0 +1,2905 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test8/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 576,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.009,
+    "Solve": 0.001,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.003
+  }
+}

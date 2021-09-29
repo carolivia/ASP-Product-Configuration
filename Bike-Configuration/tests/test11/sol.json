@@ -1,0 +1,2065 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test11/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,carbon_fiber)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,material,aluminium)", "assign(front_wheel,material,aluminium)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 408,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.009,
+    "Solve": 0.000,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.003
+  }
+}

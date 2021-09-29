@@ -1,0 +1,1110 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test6/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        },
+        {
+          "Value": [
+            "component(stand)", "component(basket)", "component(rear_wheel)", "component(front_wheel)", "component(frame)", "component(bike)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 217,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.002,
+    "Solve": 0.000,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.002
+  }
+}

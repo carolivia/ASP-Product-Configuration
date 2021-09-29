@@ -1,0 +1,345 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test5/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(front_wheel,size,26)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 64,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.003,
+    "Solve": 0.000,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.002
+  }
+}

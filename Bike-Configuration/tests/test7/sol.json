@@ -1,0 +1,3865 @@
+{
+  "Solver": "clingo version 5.5.0",
+  "Input": [
+    "test7/show.lp"
+  ],
+  "Call": [
+    {
+      "Witnesses": [
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f2)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f3)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        },
+        {
+          "Value": [
+            "assign(frame,type,f1)", "component(frame)"
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": "SATISFIABLE",
+  "Models": {
+    "Number": 768,
+    "More": "no"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.003,
+    "Solve": 0.001,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.003
+  }
+}
