@@ -1,0 +1,34 @@
+\section{Introduction}\label{sec:introduction}
+Today's society is changing continuously and needs products that can keep up with the ongoing changes of customer requirements being more and more personalized. 
+Customers experience direct benefits from customized products, that are based on measurable customer preferences \cite{frkest09}. 
+In regards to this trend, mass customization was introduced as a new production method, combining pricing and time conditions of mass production with highly variable products \cite{felfernig07}. 
+Customizable product configuration is applied in different industries, for example, the automotive industry \cite{tiheanso13}, and for various products such as smart home configuration \cite{fefaateruraz17a}, and cement manufacturing plants \cite{orsben14}. 
+The most recent trend goes towards interactive configuration, where the customer is involved in the complete configuration process and can adapt decisions in a dynamic way \cite{fahakrscscta20a}.\newline
+
+As a knowledge-based approach, the declarative modeling language Answer Set Programming (ASP) can be used for product configuration \cite{gerysc15a}. 
+There are various works that take on the challenge to represent product configuration using ASP \cite{fefaateruraz17a} \cite{mytirafe14a} \cite{gekakasc11d}. 
+However, those approaches are mostly either directed at specific products or knowledge is expressed in the form of rules. 
+The problem with the first is re-usability, that is, configuration of every product includes the development of a configurator.
+The limitations of the second approach affect the business side of product configuration. 
+This is due to the fact that domain experts are expected to have expertise in ASP which is often not the case \cite{zhang14a}. 
+It is also important that the configurator can communicate with other systems \cite{fefrjastza03a}. \newline   
+
+The aim of this thesis is to create a product configurator that can be applied independently from the domain and does not require an in-depth understanding of ASP. 
+Therefore, the first motivation is to collect and analyze different concepts for configuration in ASP and the second is to develop a product independent configuration knowledge representation in ASP. 
+By separating domain knowledge and configuration knowledge, both can be treated independently. 
+A major advantage compared to other approaches is, that the configuration knowledge is reusable and can be applied to different products. 
+In addition, better system maintenance can be ensured.
+Knowledge can be presented in fact format.
+Therefore, it can be easily mapped with other systems. 
+The fact format also allows the domain expert to provide the product knowledge without an expertise in ASP \cite{zhang14a}. \newline
+
+The thesis is structured into main parts: the literature review of product configuration in Section \ref{sec: Theory of product configuration} and the development of a configurator using the example of a bike (Section \ref{sec: Problem Definition} and \ref{sec: Configuration Solution}), followed by a conclusion and outlook. \newline
+
+In Section \ref{sec: Theory of product configuration}, I conducted a systematic literature review where I concentrated on literature from 1998 onwards. 
+I mainly used two approaches to collect and search for literature: First, I used electronic databases like Google Scholar \cite{GoogleScholar}, ScienceDirect \cite{ScienceDirect}, Academia \cite{Academia}, ResearchGate \cite{ResearchGate}, and the KRR bibliography \cite{KRR}.
+The second approach used was backward reference searching by going through the references of already collected papers and identifying new papers, journals, and articles to include in the thesis. Based on this research, 45 papers were included in this thesis. \newline
+
+The second part of my thesis is separated into two parts.
+In Section \ref{sec: Problem Definition}, the bike problem is defined and three different use cases are introduced. 
+In addition, I established constraints for a successful product configuration. 
+Section \ref{sec: Configuration Solution} contains the encoding and product knowledge as well as the product configurations for the different use cases. 

@@ -1,0 +1,287 @@
+\section{Appendices}\label{sec: Appendices}
+\begin{landscape}
+\subsection{Comparing ASP Approaches}
+\singlespacing
+\begin{longtable}{llllll}
+ &
+  \cite{hofestrybawo14a} &
+  \cite{mytirafe14a} &
+  \cite{fefaateruraz17a} &
+  \cite{sonitisu01a} &
+  \cite{gekakasc11d} \\
+\endfirsthead
+%
+\multicolumn{6}{c}%
+{{\bfseries Table \thetable\ continued from previous page}} \\
+ &
+  \cite{hofestrybawo14a} &
+  \cite{mytirafe14a} &
+  \cite{fefaateruraz17a} &
+  \cite{sonitisu01a} &
+  \cite{gekakasc11d} \\
+\endhead
+%
+main focus &
+  UML to ASP &
+  \begin{tabular}[c]{@{}l@{}}Feature \\ model to ASP\end{tabular} &
+  IOT domain &
+  \begin{tabular}[c]{@{}l@{}}weight \\ constraint \\ rules\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Linux package \\ configuration, \\ optimization\end{tabular} \\
+\begin{tabular}[c]{@{}l@{}}component \\ types \end{tabular} &
+  fact &
+  fact &
+  fact &
+  fact &
+  fact \\
+\begin{tabular}[c]{@{}l@{}}component \\ assignments\end{tabular} &
+  fact &
+  fact &
+  fact &
+  \begin{tabular}[c]{@{}l@{}}\begin{tabular}[c]{@{}l@{}}fact, \\ assignment through\\ integrity rule\end{tabular}\end{tabular} &
+  fact \\
+Generalization &
+  basic   rule &
+  \begin{tabular}[c]{@{}l@{}}not part \\ of feature diagram\end{tabular} &
+  basic rule \& integrity   rule &
+  - &
+  - \\
+\begin{tabular}[c]{@{}l@{}}whole-part\\ relations\end{tabular} &
+  choice   rule &
+  choice rule &
+  choice rule &
+  choice rule &
+  - \\
+attributes &
+  \begin{tabular}[c]{@{}l@{}}\begin{tabular}[c]{@{}l@{}}\\ domains with basic rule\\ (attributeDomain :- \\ component\_types)\end{tabular}\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}\begin{tabular}[c]{@{}l@{}}\\ facts that are \\ assigned using \\ choice rules\end{tabular}\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}\begin{tabular}[c]{@{}l@{}}\\ domains as facts, \\ assigned to component \\ types with choice rules,\\ attributes are assigned \\ a concrete value \\ through basic rules\end{tabular}\end{tabular} &
+  - &
+  fact \\
+\begin{tabular}[c]{@{}l@{}}optional \\ elements\end{tabular} &
+  - &
+  possible parts as facts &
+  - &
+  - &
+  - \\
+\begin{tabular}[c]{@{}l@{}}default \\ elements\end{tabular} &
+  - &
+  - &
+  - &
+  - &
+  - \\
+\begin{tabular}[c]{@{}l@{}}incompatibility \\ rules\end{tabular} &
+  integrity   rule &
+  - &
+  integrity rules &
+  - &
+  fact \\
+\begin{tabular}[c]{@{}l@{}}compatibility \\ rules\end{tabular} &
+  - &
+  - &
+  - &
+  - &
+  - \\
+\begin{tabular}[c]{@{}l@{}}resource \\ constriants\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}price as   resource, \\ integrity rule\end{tabular} &
+  - &
+  \begin{tabular}[c]{@{}l@{}}price as resource, \\ integrity   rule\end{tabular} &
+  integrity rule &
+  - \\
+\begin{tabular}[c]{@{}l@{}}pricing \\ constraints\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}price  \\ calculation with \\ sum function\end{tabular} &
+  - &
+  \begin{tabular}[c]{@{}l@{}}sum function and \\ integrity rule\end{tabular} &
+  integrity rule &
+  - \\
+\begin{tabular}[c]{@{}l@{}}requires \\ constraints\end{tabular} &
+  integrity   rule &
+  basic rule &
+  choice rule &
+  integrity rule &
+  fact \\
+\begin{tabular}[c]{@{}l@{}}customer \\ requirements\end{tabular} &
+  fact &
+  - &
+  fact and integrity rule &
+  - &
+  - \\
+\begin{tabular}[c]{@{}l@{}}component \\ format\end{tabular} &
+  component(X) &
+  featureType(iX) &
+  component(X) &
+  component(X) &
+  tuple \\
+\begin{tabular}[c]{@{}l@{}}format for \\ part-of relations\end{tabular} &
+  component\_of\_pc(X,Y) &
+  \begin{tabular}[c]{@{}l@{}}haspart(X1, X2, \\ partDeftype)\end{tabular} &
+  component(X) &
+  pa(C1, C2, ms) &
+  - \\
+\begin{tabular}[c]{@{}l@{}}format possible/\\ optional parts\end{tabular} &
+  - &
+  ppart(X1,X2,partDeftype,I) &
+  - &
+  pa(C1, C2, ms) &
+  -
+\end{longtable}
+\end{landscape}
+
+\subsection{Bill of Material}
+% Please add the following required packages to your document preamble:
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\begin{longtable}[c]{|l|l|l|l|}
+\hline
+Component              & Component type & Attribute      & Attribute value \\ \hline
+\endfirsthead
+%
+\multicolumn{4}{c}%
+{{\bfseries Table \thetable\ continued from previous page}} \\
+\hline
+Component              & Component type & Attribute      & Attribute value \\ \hline
+\endhead
+%
+Frame                  & f1             & Material       & Aluminium       \\ \hline
+                       &                & Basket Support & True            \\ \hline
+                       & f2             & Material       & Carbon fibre    \\ \hline
+                       &                & Basket Support & False           \\ \hline
+                       & f3             & Material       & Carbon fibre       \\ \hline
+                       &                & Basket Support & True            \\ \hline
+Handlebar              & hb1            & Form           & Riser           \\ \hline
+                       &                & Price          & 30              \\ \hline
+                       & hb2            & Form           & Butterfly       \\ \hline
+                       &                & Price          & 45              \\ \hline
+                       & hb3            & Form           & Cruiser         \\ \hline
+                       &                & Price          & 20              \\ \hline
+Wheel (front  \& back) & w1             & Material       & Aluminium       \\ \hline
+                       &                & Size           & 28              \\ \hline
+                       &                & Price          & 60              \\ \hline
+                       & w2             & Material       & Aluminium       \\ \hline
+                       &                & Size           & 26              \\ \hline
+                       &                & Price          & 70              \\ \hline
+                       & w3             & Material       & Carbon fibre    \\ \hline
+                       &                & Size           & 28              \\ \hline
+                       &                & Price          & 80              \\ \hline
+Cassette               & c1             & Size           & 8               \\ \hline
+                       &                & Price          & 17              \\ \hline
+                       & c2             & Size           & 11              \\ \hline
+                       &                & Price          & 33              \\ \hline
+Pedals                 & p1             & Clip pedals    & True            \\ \hline
+                       &                & Price          & 20              \\ \hline
+                       & p2             & Clip pedals    & False           \\ \hline
+                       &                & Price          & 30              \\ \hline
+Front brake            & fb1            & Price          & 20              \\ \hline
+                       & fb2            & Price          & 30              \\ \hline
+Rear brake             & rb1            & Price          & 24              \\ \hline
+Saddle                 & s1             & Material       & Leather         \\ \hline
+                       &                & Padding        & Gel             \\ \hline
+                       &                & Height         & 6               \\ \hline
+                       &                & Size           & 10              \\ \hline
+                       &                & Price          & 70              \\ \hline
+                       & s2             & Material       & Nylon           \\ \hline
+                       &                & Padding        & Foam            \\ \hline
+                       &                & Height         & 6               \\ \hline
+                       &                & Size           & 10              \\ \hline
+                       &                & Price          & 35              \\ \hline
+Stand                  & st1            & Height         & 15              \\ \hline
+                       &                & Price          & 10              \\ \hline
+                       & st2            & Height         & 16              \\ \hline
+                       &                & Price          & 8               \\ \hline
+Bike bell              & bb1            & Colour         & Silver          \\ \hline
+                       &                & Sound          & Ringing         \\ \hline
+                       &                & Price          & 10              \\ \hline
+                       & bb2            & Colour         & Black           \\ \hline
+                       &                & Sound          & Horn            \\ \hline
+                       &                & Price          & 7               \\ \hline
+Seat cover             & sc1            & Colour         & Black           \\ \hline
+                       &                & Size           & 10              \\ \hline
+                       &                & Price          & 5               \\ \hline
+                       & sc2            & Colour         & Grey            \\ \hline
+                       &                & Size           & 13              \\ \hline
+                       &                & Price          & 12              \\ \hline
+Basket                 & b1             & Material       & Rattan          \\ \hline
+                       &                & Price          & 30              \\ \hline
+                       & b2             & Material       & Mesh            \\ \hline
+                       &                & Price          & 45              \\ \hline
+                       & b3             & Material       & Plastic         \\ \hline
+                       &                & Price          & 60              \\ \hline
+Light                  & l1             & Price          & 8               \\ \hline
+                       &                & Energy source  & Battery         \\ \hline
+                       & l2             & Price          & 10              \\ \hline
+                       &                & Energy source  & Dynamo          \\ \hline
+Phone holder           & ph1            & Price          & 20              \\ \hline
+                       &                & Size           & “M”             \\ \hline
+                       & ph2            & Price          & 35              \\ \hline
+                       &                & Size           & “L”             \\ \hline
+Bottle holder          & bh1            & Price          & 12              \\ \hline
+                       &                & Size           & 1               \\ \hline
+                       & bh2            & Price          & 16              \\ \hline
+                       &                & Size           & 2               \\ \hline
+\end{longtable}
+
+\newpage
+
+\subsection{Fact Format: User Requirements}
+\begin{lstlisting}[caption =  {Requirements User 1}, basicstyle=\ttfamily, label = {user1}]
+user_com_pv(req,(bike,type,city_bike)).
+user_com(req,basket).
+user_com_pv(req,(cassette,size,8)).
+user_com_pv(req,(rear_wheel,size,26)).
+user_com_pv(req,(front_wheel,size,26)).
+user_com_pv(req,(frame,material,carbon_fiber)).
+user_com_pv(req, (handlebar, form, butterfly)).
+user_com_pv(req, (light, energy_source, battery)).
+user_com_pv(req, (pedals, clip_pedals, true)).
+user_com_pv(req, (front_brake, price, 20)).
+user_com_pv(req, (rear_brake, price, 24)).
+user_com_pv(req, (saddle, padding, gel)).
+user_com_pv(req, (bell, color, silver)).
+user_com_pv(req, (phone_holder, price, 20)).
+user_com(nreq, bottle_holder).
+user_com(nreq, seat_cover).
+user_com_pv(req, (stand, height, 16)).
+\end{lstlisting}
+
+\begin{lstlisting}[caption = {Requirements User 2}, basicstyle=\ttfamily, label = {user2}]
+user_com_pv(req,(bike, type, mountain_bike)).
+user_com_pv(req,(cassette, size, 11)).
+user_com_pv(req,(rear_wheel, material, carbon_fiber)).
+user_com_pv(req,(front_wheel, material, carbon_fiber)).
+user_com_pv(req,(handlebar, form, riser)).
+user_com_pv(req,(light, energy_source, dynamo)).
+user_com_pv(req,(pedals, clip_pedals, false)).
+user_com_pv(req,(front_brake, price, 30)).
+user_com_pv(req,(rear_brake, price, 24)).
+user_com_pv(req,(saddle, material, nylon)).
+user_com_pv(req,(bell, color, black)).
+user_com_pv(req,(bottle_holder, price, 12)).
+user_com(nreq, phone_holder).
+user_com(nreq, stand).
+user_com(req, seat_cover).
+\end{lstlisting}
+\newpage
+\begin{lstlisting}[caption = {Requirements User 3}, basicstyle=\ttfamily, label = {user3}]
+user_com(req,bike).
+user_com_pv(req,(cassette,price,17)).
+user_com_pv(req,(rear_wheel,price,60)).
+user_com_pv(req,(front_wheel,price,60)).
+user_com_pv(req, (handlebar, price, 20)).
+user_com_pv(req, (light, price, 8)).
+user_com_pv(req, (pedals, price, 20)).
+user_com_pv(req, (front_brake, price, 20)).
+user_com_pv(req, (rear_brake, price, 24)).
+user_com_pv(req, (saddle, price, 35)).
+user_com_pv(req, (bell, price, 7)).
+user_com(nreq, stand).
+user_com(nreq, phone_holder).
+user_com(nreq, basket).
+user_com(nreq, bottle_holder).
+user_com(nreq, seat_cover).
+\end{lstlisting}
+
+\newpage
+
+\subsection{Summary (German)}
+Diese Arbeit beschäftigt sich mit der Repräsentation von Konfigurationswissen für anpassbare Produkte in der Programmiersprache Answer Set Programming (ASP). Die Arbeit besteht aus zwei Teilen. Zunächst wird eine systematische Literaturrecherche durchgeführt, um die wichtigsten Prinzipien der Produktkonfiguration zu identifizieren und zu analysieren. Die Ergebnisse der Literaturrecherche werden verwendet, um im zweiten Teil einen Konfigurator zu erstellen, der Konfigurationswissen unabhängig vom Domänenwissen mit der deklarativen Programmiersprache ASP darstellen kann. Zur Veranschaulichung und zum Test der Code wird als Beispiel eine Fahrradkonfiguration verwendet. Dazu werden drei Anwendungsfälle vorgestellt, die erläutern, wie die Benutzeranforderungen in den Code einfließen und wie das konfigurierte Produkt dargestellt wird. Das austauschbare Domänenwissen wird getrennt vom Konfigurationswissen kodiert, um die Domänenunabhängigkeit zu gewährleisten.\newline
+
+Das Konfigurationswissen stellt allgemeine Einschränkungen dar, die in der vorangegangenen Überprüfung identifiziert wurden. Zusätzlich wurde die Struktur eines komponentenbasierten Konfigurationsproblems durch die Definition der Attributzuordnung und der Partonomie der Komponenten dargestellt. Sowohl Beschränkungen als auch Struktur werden durch Regeln dargestellt. Für eine gültige Konfigurationslösung müssen alle Regeln erfüllt sein, wobei für zukünftige Arbeiten Kompatibilitätsbeschränkungen, Ressourcenbeschränkungen und Standardwerte implementiert werden könnten. Für eine optimale Lösung könnten ASP-Optimierungskriterien wie Minimieren oder Maximieren angewendet werden. Der Code sollte um Methoden zur interaktiven Konfiguration erweitert werden und die Möglichkeit einer Konfigurationsdiagnose bieten.

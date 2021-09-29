@@ -1,0 +1,350 @@
+\section{Configuration Solution}\label{sec: Configuration Solution}
+
+In this section, we represent the bike configuration problem along with the three user requirements as presented in the previous section using ASP.
+First, the domain-dependent product description is given in fact format.
+The core part is the domain-independent encoding for the configuration problem, where it is specified how the components are assigned while satisfying the constraints. 
+In literature, only a few papers were dedicated towards a general approach for product configuration \cite{chjojoberi99a, sotimasu98a} and most configurators are set up for specific product domains \cite{fefaateruraz17a, fahakrscscta20a} and here the major motivation is a clear separation between product knowledge and configuration knowledge.
+
+\subsection{Product Domain}
+\lstset{numbers=left,frame = single, breaklines=true,
+    breakatwhitespace=true,}
+Presenting the product domain by using a fact format was already successfully introduced by other researchers. The input of the product domain is not limited to ASP programmer and can be introduced from other systems through a mapping to facts or be automated, as the structure is very straightforward \cite{bulera05ricochet, bainkaokscsotawa18a}. \newline
+
+
+\begin{lstlisting}[caption = {Product Domain}, basicstyle=\ttfamily, label = {domain}]
+domain(bike,type,city_bike). 
+domain(bike,type,mountain_bike).
+domain(saddle,type,s1). 
+domain(saddle,type,s2).
+domain(stand,type,st1). 
+domain(stand,type,st2).
+domain(basket,type,b1). 
+domain(basket,type,b2).
+domain(basket,type,b3).
+domain(rear_wheel,type,w1).
+domain(rear_wheel,type,w2).
+domain(rear_wheel,type,w3).
+domain(front_wheel,type,w1).
+domain(front_wheel,type,w2).
+domain(front_wheel,type,w3). 
+domain(frame,type,f1). 
+domain(frame,type,f2). 
+domain(frame,type,f3).
+domain(handlebar, type, hb1). 
+domain(handlebar, type, hb2). 
+domain(handlebar, type, hb3).
+domain(light, type, l1). 
+domain(light, type, l2).
+domain(cassette, type, c1). 
+domain(cassette, type, c2).
+domain(pedals, type, p1). 
+domain(pedals, type, p2).
+domain(front_brake, type, fb1). 
+domain(front_brake, type, fb2).
+domain(rear_brake, type, rb1). 
+domain(rear_brake, type, rb2).
+domain(bell, type, bb1). 
+domain(bell, type, bb2).
+domain(seat_cover, type, sc1). 
+domain(seat_cover, type, sc2).
+domain(phone_holder, type, ph1). 
+domain(phone_holder, type, ph2).
+domain(bottle_holder, type, bh1). 
+domain(bottle_holder, type, bh2).
+\end{lstlisting} 
+
+The domain in listing \ref{domain} is represented by a triple \texttt{domain(C,P,V)}, where \texttt{C} represents the component of the product, \texttt{P} represents the property of \texttt{C} that can an assigned value \texttt{V}. The \textit{type} of the component is also represented as an property and is therefore defined by the property value. For example a handlebar can either be of type \texttt{hb1}, \texttt{hb2}, or \texttt{hb3}. The value of this \textit{type} property of the component determines all other property values of the component. 
+
+\begin{lstlisting}[caption = {Attribute Definition}, basicstyle=\ttfamily, label = {attributes}]
+%%% frame %%%
+property_val(f1,material,aluminium).
+property_val(f1,basket_support,true).
+
+property_val(f2,material,carbon_fiber).
+property_val(f2,basket_support,false).
+
+property_val(f3,material,carbon_fiber).
+property_val(f3,basket_support,true).
+
+%%% handlebar %%%
+property_val(hb1,form, riser).
+property_val(hb1,price, 30).
+
+property_val(hb2,form, butterfly).
+property_val(hb2,price, 45).
+
+property_val(hb3,form, cruiser).
+property_val(hb3,price, 20).
+
+%%% wheel (front & rear) %%%
+property_val(w1,material,aluminium).
+property_val(w1,size,28).
+property_val(w1,price,60).
+
+property_val(w2,material,aluminium).
+property_val(w2,size,26).
+property_val(w2,price,70).
+
+property_val(w3,material,carbon_fiber).
+property_val(w3,size,28).
+property_val(w3,price,80).
+
+%%% cassette %%%
+property_val(c1,size,8).
+property_val(c1,price,17).
+
+property_val(c2,size,11).
+property_val(c2,price,33).
+
+%%% pedals %%%
+property_val(p1,clip_pedals, true).
+property_val(p1,price,20).
+
+property_val(p2,clip_pedals, false).
+property_val(p2,price,30).
+
+%%% front brake %%%
+property_val(fb1,price,20).
+
+property_val(fb2,price,30).
+
+%%% rear brake %%%
+property_val(rb1,price,24).
+
+%%% saddle %%%
+property_val(s1,material,leather).
+property_val(s1,padding,gel).
+property_val(s1,height,6).
+property_val(s1,size,10).
+property_val(s1,price,70).
+
+property_val(s2,material,nylon).
+property_val(s2,padding,foam).
+property_val(s2,height,8).
+property_val(s2,size,10).
+property_val(s2,price,35).
+
+%%% stand %%%
+property_val(st1,height,15).
+property_val(st1,price,10).
+
+property_val(st2,height,16).
+property_val(st2,price,8).
+
+%%% bike bell %%%
+property_val(bb1,color,silver).
+property_val(bb1,sound,ringing).
+property_val(bb1,price,10).
+
+property_val(bb2,color,black).
+property_val(bb2,sound,horn).
+property_val(bb2,price,7).
+
+%%% seat cover %%%
+property_val(sc1,color,black).
+property_val(sc1,size,10).
+property_val(sc1,price,5).
+
+property_val(sc2,color,grey).
+property_val(sc2,size,13).
+property_val(sc2,price,12).
+
+%%% basket %%%
+property_val(b1,material,rattan).
+property_val(b1,price,30).
+
+property_val(b2,material,mesh).
+property_val(b2,price,45).
+
+property_val(b3,material, plastic).
+property_val(b3,price,60).
+
+%%% light %%%
+property_val(l1, price, 8).
+property_val(l1, energy_source, battery).
+
+property_val(l2, price, 10).
+property_val(l2, energy_source, dynamo).
+
+%%% phone holder %%%
+property_val(ph1, price, 20).
+property_val(ph1, size, "M").
+
+property_val(ph2, price, 35).
+property_val(ph2, size, "L").
+
+%%% bottle holder %%%
+property_val(bh1, price, 12).
+property_val(bh1, size, 1).
+
+property_val(bh2, price, 16).
+property_val(bh2, size, 2).
+
+\end{lstlisting} 
+
+The properties of the component types like \texttt{hb1}, \texttt{hb2}, or \texttt{hb3} have predefined values as given in Listing \ref{attributes}. 
+The domain of the property of a component is determined by the domain of the property values of its component types.
+A saddle, for example, can be made from leather or nylon, depending on whether \texttt{s1} or \texttt{s2} is chosen as the saddle. 
+
+\begin{lstlisting}[caption = {Mandatory Attributes}, label = {mandatory}]
+mandatory_attribute(frame,material).
+\end{lstlisting}
+
+With the fact in \ref{mandatory}, it can be determined that certain properties have to be assigned a value if the component is present in the configuration. 
+
+\begin{lstlisting}[caption = {Mandatory and Optional Components}, basicstyle=\ttfamily, label = {mocomp}]
+partof(bike,frame,mandatory).
+partof(bike,front_wheel,mandatory).
+partof(bike,rear_wheel,mandatory).
+partof(bike,saddle,mandatory).
+partof(bike,handlebar,mandatory).
+partof(bike,light,mandatory).
+partof(bike,cassette,mandatory).
+partof(bike,pedals,mandatory).
+partof(bike,front_brake,mandatory).
+partof(bike,rear_brake,mandatory).
+partof(bike,bell,mandatory).
+partof(bike,basket,optional).
+partof(bike,stand,optional).
+partof(bike,seat_cover,optional).
+partof(bike,phone_holder,optional).
+partof(bike,bottle_holder,optional).
+\end{lstlisting}
+
+In the partonomy section (Listing \ref{mocomp}), I defined whether a component is \texttt{mandatory} or \texttt{optional} part of a whole component. Lines 1-11 contain the mandatory components necessary from an engineering or legal point of view. All other components are optional for any bike (Line 12-16).
+
+\begin{lstlisting}[caption = {Incompatibility}, basicstyle=\ttfamily, label = {incomp}]
+incompatible_com_pv(basket,(bike,type,mountain_bike)).
+incompatible_com_pv(basket,(frame,type,f2)).
+incompatible_pv_pv((frame,type,f1), (bike,type,mountain_bike)). 
+incompatible_pv_pv((frame,type,f3), (bike,type,mountain_bike)). 
+
+incompatible_pv_pv((front_wheel,size,26),(rear_wheel,size,28)).
+incompatible_pv_pv((front_wheel,size,28),(rear_wheel,size,26)).
+
+incompatible_pv_pv((frame,type,f1),(cassette,type,c1)).
+incompatible_pv_pv((frame,type,f3),(cassette,type,c2)).
+
+incompatible_pv_pv((saddle,type,s1),(seat_cover,type,sc2)).
+incompatible_pv_pv((saddle,type,s2),(seat_cover,type,sc1)).
+\end{lstlisting}
+
+Listing \ref{incomp} describes the incompatibility of different components with or without property values. Because frame \texttt{f2} has no basket support (cf. Listing \ref{attributes}) a basket component is not compatible with it. Frame \texttt{f1} and \texttt{f3} are designed for a \texttt{city\_bike} with a basket support and are therefore not compatible with the bike type \texttt{mountain\_bike} (Line 3-4). The front and rear wheels of the bike do not necessarily be of the same type, but they need to have the same size. Therefore, different-sized wheels are incompatible (Line 6-7). The cassette type depends on the frame and the seat cover on the saddle type.  
+
+\begin{lstlisting}[caption = {Product Requirements} , basicstyle=\ttfamily, label = {require}]
+require_com_pv(basket,(frame,basket_support,true)).
+require_com_com(basket,stand).
+\end{lstlisting}
+
+Requirements can be between different components with or without property values. (compare rules \textbf{R1-R3}). The first line expresses that a basket component requires a frame with basket support. In addition, a basket also needs a stand (Line 2). 
+
+\begin{lstlisting}[caption = {User Requirements}, basicstyle=\ttfamily, label = {userreq}]
+user_com(req,bike).
+user_com_pv(req,(cassette,type,c1)).
+user_com(nreq, phone_holder).
+\end{lstlisting}
+
+Users can require specific components or components with specific property values. 
+In Listing \ref{userreq} only a few requirements are represented. 
+The full user requirements in fact format according to the tables from the previous chapter can be found in the appendix. 
+A user can not only require specific components (Line 1-2), but can also explicitly say what components are not wanted (Line 3). 
+
+\subsection{Encoding}
+The encoding in Listing \ref{config} is domain-independent is separated into three parts: preprocessing in Lines 1-6, generation in Line 8-10, and testing in the remaining part. 
+
+\begin{lstlisting}[caption = {Configuration Problem Encoding}, , basicstyle=\ttfamily, label = {config}]
+require_com_com(Part,Whole):-partof(Whole,Part,_).
+require_com_com(Whole,Part):-partof(Whole,Part,mandatory).
+
+mandatory_property(Component,type):- domain(Component,_,_).
+
+domain(Component,Property,Value):- domain(Component,type,Comp_Type), property_val(Comp_Type,Property,Value).
+
+{assign(Component,Property,Value): domain(Component,Property,Value)}.
+
+component(Component):- assign(Component,Property,Value).
+
+:- assign(Component,Property,Value1), assign(Component,Property,Value2), Value1 < Value2.
+
+:- component(Component), mandatory_property(Component,Property), not assign(Component,Property,_).
+
+:- assign(Component,type,Comp_Type), assign(Component,Property,Value), Property != type , not property_val(Comp_Type,Property,Value).
+
+:- assign(Component,type,Comp_Type), property_val(Comp_Type,Property,Value), not assign(Component,Property,Value).
+
+:- require_com_com(Component1,Component2), component(Component1), not component(Component2).
+
+:- require_com_pv(Component1,(Component2,Property,Value)), component(Component1), not assign(Component2,Property,Value).
+
+:- require_pv_com((Component1,Property,Value),Component2), assign(Component1,Property,Value), not component(Component2).
+
+:- require_pv_pv((Component1,Property1,Value1), (Component2,Property2,Value2)),
+   assign(Component1,Property1,Value1),
+   not assign(Component2,Property2,Value2).
+
+:- incompatible_com_com(Component1,Component2), component(Component1), component(Component2).
+
+:- incompatible_com_pv(Component1,(Component2,Property,Value)), component(Component1), assign(Component2,Property,Value).
+
+:- incompatible_pv_pv((Component1,Property1,Value1), (Component2,Property2,Value2)), 
+   assign(Component1,Property1,Value1),
+   assign(Component2,Property2,Value2).
+
+:- user_com(req,Component), not component(Component).
+
+:- user_com(nreq,Component), component(Component).
+
+:- user_com_pv(req,(Component,Property,Value)), not assign(Component,Property,Value).
+
+:- user_com_pv(nreq,(Component,Property,Value)), assign(Component, Property,Value).
+\end{lstlisting}
+In Line 6, the domains of the component properties are generated from the predefined property values of their component type.
+Assignment of values property of the components from their domain is given by Line 8, in form of a choice rule.
+Also, to keep track of the components that are present in the configuration solution, the predicate \texttt{component(Component)} (Line 10) is used. \newline
+
+The constraint \textbf{A1} is expressed in Line 4, where the type of a component is set as a mandatory property.
+Additionally, constraint \textbf{A4}, that all mandatory property should be assigned a value if the component is present, is represented in Line 14. 
+Constraint \textbf{A2} is represented in Line 12, meaning that a component property cannot have more than one value.
+Line 16 and 18 depict rule \textbf{A3}. 
+Line 16 expresses that a component cannot have property values that the assigned component type doesn't have.
+In addition, Line 18 expresses that the component must have all the pre-defined property values of its assigned type. \newline
+
+The partonomy constraints \textbf{P1} and \textbf{P2} are part of the preprocessing and mapped into requirement constraint \textbf{R1}, expressed in Line 1 and 2, where a part of a whole component requires the whole component. In addition, whole components require all their mandatory components to be present.
+The product requirements are defined in Line 20-28. Line 20 states that a component can require another component (\textbf{R1}). Rule \textbf{R2} is represented by Lines 22 and 24 where a component can require a certain property value from another component and vice versa. The last requirement case, that a component with a specific property value requires another component with a specific property value is represented by Line 26-28 (rule \textbf{R3}). \newline
+
+The majority of components are compatible with each other. Therefore, incompatibility is encoded. Similar to the requirement constraints, we can identify three different cases which represent \textbf{I1-I3}. Line 30 translates rule \textbf{I1}, where a component is incompatible with another component. \textbf{I2} is represented by Line 32. The last case that a component with a certain property value is incompatible with another component with a specific property value is done in Line 34 (\textbf{I3}). \newline
+
+The user requirements are represented in Line 38-44. A user can require a certain component (\textbf{U1}) or a component with a specific property value (\textbf{U2}). This is represented in Line 38 and 42 respectively. On the contrary, the user can also deny certain components or attribute values to be in the configuration (\textbf{U3, U4}) which is represented in Line 40 and 44.   
+
+\subsection{Configuration of Use Cases}
+After presenting the facts and rules in ASP, the actual configuration problem needs to be solved. Therefore, I ran the program with the different user requirements respectively. The configured solution is represented by predicates of form \texttt{assign(Component, Property, Value)}. Here I restrict using show statement, such that only the component types that have been assigned to the component are present. 
+
+\begin{lstlisting}[caption = {Solution User 1}, basicstyle=\ttfamily, label = {sol1}]
+Answer: 1
+assign(bike,type,city_bike) assign(saddle,type,s1) assign(stand,type,st2) assign(basket,type,b1) assign(rear_wheel,type,w2) assign(front_wheel,type,w2) assign(frame,type,f3) assign(handlebar,type,hb2) assign(light,type,l1) assign(cassette,type,c1) assign(pedals,type,p1) assign(front_brake,type,fb1) assign(rear_brake,type,rb1) assign(bell,type,bb1) assign(phone_holder,type,ph1)
+Answer: 2
+assign(bike,type,city_bike) assign(saddle,type,s1) assign(stand,type,st2) assign(basket,type,b2) assign(rear_wheel,type,w2) assign(front_wheel,type,w2) assign(frame,type,f3) assign(handlebar,type,hb2) assign(light,type,l1) assign(cassette,type,c1) assign(pedals,type,p1) assign(front_brake,type,fb1) assign(rear_brake,type,rb1) assign(bell,type,bb1) assign(phone_holder,type,ph1)
+Answer: 3
+assign(bike,type,city_bike) assign(saddle,type,s1) assign(stand,type,st2) assign(basket,type,b3) assign(rear_wheel,type,w2) assign(front_wheel,type,w2) assign(frame,type,f3) assign(handlebar,type,hb2) assign(light,type,l1) assign(cassette,type,c1) assign(pedals,type,p1) assign(front_brake,type,fb1) assign(rear_brake,type,rb1) assign(bell,type,bb1) assign(phone_holder,type,ph1)
+\end{lstlisting}
+
+For Listing \ref{sol1} there are 3 possible answers because the user did not specify the type of basket that was required. Therefore, an option with each basket type is generated. There are two frames that are made of the material carbon fiber. The user does not specify the frame type. However, only \texttt{f3} is in the solution because \texttt{f2} does not provide bike support.   
+
+\begin{lstlisting}[caption = {Solution User 2}, basicstyle=\ttfamily, label = {sol2}]
+Answer: 1
+assign(bike,type,mountain_bike) assign(saddle,type,s2) assign(rear_wheel,type,w3) assign(front_wheel,type,w3) assign(frame,type,f2) assign(handlebar,type,hb1) assign(light,type,l2) assign(cassette,type,c2) assign(pedals,type,p2) assign(front_brake,type,fb2) assign(rear_brake,type,rb1) assign(bell,type,bb2) assign(seat_cover,type,sc2) 
+assign(bottle_holder,type,bh1)
+\end{lstlisting}
+
+For the second user there is only one possible configuration. The user made their requirements rather specific and therefore receives one configured solution that meets all the requirements. Because the user chose a mountain bike, the frame is set to be frame \texttt{f2}. The seat cover was required, but not further specified. However, the saddle \texttt{s2} is not compatible with seat cover \texttt{sc1}. Therefore, \texttt{sc2} is part of the configured solution. All other components were set to not required. 
+
+\begin{lstlisting}[caption = {Solution User 3}, basicstyle=\ttfamily, label = {sol3}]
+Answer: 1
+assign(bike,type,city_bike) assign(saddle,type,s2) assign(rear_wheel,type,w1) assign(front_wheel,type,w1) assign(frame,type,f2) assign(handlebar,type,hb3) assign(light,type,l1) assign(cassette,type,c1) assign(pedals,type,p1) assign(front_brake,type,fb1) assign(rear_brake,type,rb1) assign(bell,type,bb2)
+Answer: 2
+assign(bike,type,mountain_bike) assign(saddle,type,s2) assign(rear_wheel,type,w1) assign(front_wheel,type,w1) assign(frame,type,f2) assign(handlebar,type,hb3) assign(light,type,l1) assign(cassette,type,c1) assign(pedals,type,p1) assign(front_brake,type,fb1) assign(rear_brake,type,rb1) assign(bell,type,bb2)
+Answer: 3
+assign(bike,type,city_bike) assign(saddle,type,s2) assign(rear_wheel,type,w1) assign(front_wheel,type,w1) assign(frame,type,f3) assign(handlebar,type,hb3) assign(light,type,l1) assign(cassette,type,c1) assign(pedals,type,p1) assign(front_brake,type,fb1) assign(rear_brake,type,rb1) assign(bell,type,bb2)
+\end{lstlisting}
+
+The third user is very price sensitive. For all properties that had a price, the user chose the cheapest option. Because some of the bike components do not have price as a property (\texttt{frame} and \texttt{bike}), the configurator generated more than one option. To optimize the process and for more detailed models it is a good idea to think about optimizations in ASP or to include a price function that calculates the whole bike price and chooses the cheapest option. 
